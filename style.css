@@ -4,14 +4,14 @@
 
 @media screen and (min-width: 1081px) {
     img {
-        content:;
+        content:url(https://user-images.githubusercontent.com/23200000/30505094-7b74c1bc-9a27-11e7-8fb2-ef952c9de09a.jpg);
     }
 	
 }
 
 @media screen and (max-width: 1080px) {
   img {
-      content:;
+      content:url(https://user-images.githubusercontent.com/23200000/30505117-a2cdfdd2-9a27-11e7-8a48-c07a2cb3fee1.jpg);
   }
 	body {
 	    background-color: black;
@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 820px) {
    img {
-      content:;
+      content:url(https://user-images.githubusercontent.com/23200000/30505109-980c58f8-9a27-11e7-8ef5-709afb3bece8.jpg);
    }
 	 body {
 	    background-color: black;
@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 600px) {
   img {
-      content:;
+      content:url(https://user-images.githubusercontent.com/23200000/30505100-8c70454a-9a27-11e7-99de-a22fceb5bd7e.png);
   }
 	body {
 	    background-color: black;
@@ -42,7 +42,7 @@
 	}
  
 .hidden {
-        content:;
+        content:url(https://user-images.githubusercontent.com/23200000/30505123-aa86cb30-9a27-11e7-86e3-789fb554e4d5.gif);
   }
 	
 body {
