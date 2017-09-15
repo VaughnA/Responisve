@@ -37,14 +37,15 @@
 }
 
 @media screen and (max-width: 600px) {
-	
-	.h1 {
+.h1 {
 	visibility: visible;
 	}
-  .hidden {
+ 
+.hidden {
         content:;
   }
-	body {
+	
+body {
 	    background-image: ;
 	}
 }
