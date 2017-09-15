@@ -1,0 +1,50 @@
+.h2 {
+	visibility: hidden;
+}
+
+@media screen and (min-width: 1081px) {
+    img {
+        content:;
+    }
+	
+}
+
+@media screen and (max-width: 1080px) {
+  img {
+      content:;
+  }
+	body {
+	    background-color: black;
+	}
+}
+
+@media screen and (max-width: 820px) {
+   img {
+      content:;
+   }
+	 body {
+	    background-color: black;
+	 }
+}
+
+@media screen and (max-width: 600px) {
+  img {
+      content:;
+  }
+	body {
+	    background-color: black;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	
+	.h1 {
+	visibility: visible;
+	}
+  .hidden {
+        content:;
+  }
+	body {
+	    background-image: ;
+	}
+}
