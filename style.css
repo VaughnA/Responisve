@@ -4,7 +4,7 @@
 
 @media screen and (min-width: 1081px) {
     img {
-        content:url(https://user-images.githubusercontent.com/23200000/30505109-980c58f8-9a27-11e7-8ef5-709afb3bece8.jpg);
+        content:url(https://user-images.githubusercontent.com/23200000/30505117-a2cdfdd2-9a27-11e7-8a48-c07a2cb3fee1.jpg);
     }
 	body {
 	    background-color: black;
@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 980px) {
   img {
-      content:url(https://user-images.githubusercontent.com/23200000/30505117-a2cdfdd2-9a27-11e7-8a48-c07a2cb3fee1.jpg);
+      content:url(https://user-images.githubusercontent.com/23200000/30505109-980c58f8-9a27-11e7-8ef5-709afb3bece8.jpg);
   }
 	body {
 	    background-color: black;
