@@ -9,7 +9,7 @@
 	
 }
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 980px) {
   img {
       content:url(https://user-images.githubusercontent.com/23200000/30505100-8c70454a-9a27-11e7-99de-a22fceb5bd7e.png);
   }
@@ -18,7 +18,7 @@
 	}
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 880px) {
    img {
       content:url(https://user-images.githubusercontent.com/23200000/30505109-980c58f8-9a27-11e7-8ef5-709afb3bece8.jpg);
    }
@@ -27,7 +27,7 @@
 	 }
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 780px) {
   img {
       content:url(https://user-images.githubusercontent.com/23200000/30505100-8c70454a-9a27-11e7-99de-a22fceb5bd7e.png);
   }
@@ -36,7 +36,7 @@
 	}
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 780px) {
 .h1 {
 	visibility: visible;
 	}
