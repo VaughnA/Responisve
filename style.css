@@ -6,6 +6,9 @@
     img {
         content:url(https://user-images.githubusercontent.com/23200000/30505094-7b74c1bc-9a27-11e7-8fb2-ef952c9de09a.jpg);
     }
+	body {
+	    background-color: black;
+	}
 	
 }
 
